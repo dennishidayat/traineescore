@@ -1,0 +1,9 @@
+com\enigma\task\traineescore\repository\TraineeScoreRepository.class
+com\enigma\task\traineescore\dao\impl\TraineeScoreDaoImpl.class
+com\enigma\task\traineescore\dto\CommonResponse.class
+com\enigma\task\traineescore\dao\impl\BaseImpl.class
+com\enigma\task\traineescore\model\TraineeScore.class
+com\enigma\task\traineescore\config\DaoSpringConfig.class
+com\enigma\task\traineescore\exception\CustomException.class
+com\enigma\task\traineescore\dto\TraineeScoreDto.class
+com\enigma\task\traineescore\dao\TraineeScoreDao.class
